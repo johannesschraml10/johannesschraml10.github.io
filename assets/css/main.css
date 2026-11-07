@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		h1 a {
-			color: inherit;
+			color: white;
 		}
 
 		@media screen and (max-width: 736px) {
